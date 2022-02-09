@@ -1,5 +1,5 @@
-Tracking Collar a Storz Laparoscope
-===================================
+Tracking Collar for a Storz Laparoscope
+=======================================
 
 .. image:: https://github.com/SciKit-Surgery/TrackingCollar/raw/master/collar.png
    :height: 200px
