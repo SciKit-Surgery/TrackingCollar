@@ -3,7 +3,6 @@ Tracking Collar a Storz Laparoscope
 
 .. image:: https://github.com/SciKit-Surgery/TrackingCollar/raw/master/collar.png
    :height: 200px
-   :width: 200px
    :target: https://github.com/SciKit-Surgery/TrackingCollar
    :alt: Tracking Collar
 
